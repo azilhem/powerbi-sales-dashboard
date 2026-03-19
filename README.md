@@ -1,5 +1,7 @@
 #  Sales Dashboard (Power BI)
 
+---
+
 ## Project Overview
 
 This project is an interactive **Sales Analysis Dashboard** built using **Power BI**.
